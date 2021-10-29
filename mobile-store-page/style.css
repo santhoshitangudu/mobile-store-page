@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: "roboto";
+}
+.ditailed-container{
+    border: 2px #707070 solid;
+    padding: 20px;
+    color: #0a1f44;
+}
+.main-heading{
+    
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.unordered-list{
+    font-weight: 500;
+    font-size: 20px;
+    color: #0a1f44; 
+    
+}
+.unordered-list li{
+    padding-top: 10px;
+}
